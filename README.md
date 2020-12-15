@@ -4,8 +4,8 @@ Dev talks, libs and tricks. Enable new-comers to learn VeChain public blockchain
 
 ### People
 
-- VeChain Dev [[Twitter]](https://twitter.com/vechaindev) Offical dev announcements.
-- VeChain Dev Community [[Telegram]](https://t.me/VeChainDevCommunity) Community developers. Serious discussions on new projects and muscle hirings.
+- VeChain Dev for tech advancements [[Twitter]](https://twitter.com/vechaindev)
+- VeChain Dev Community, serious discussions on new projects and muscle hirings [[Telegram]](https://t.me/VeChainDevCommunity)
 
 ### Block Explorer
 - Official Explorer [[web]](https://explore.vechain.org/) [[frontend]](https://github.com/vechain/explorer) [[backend]](https://github.com/vechain/mass)
