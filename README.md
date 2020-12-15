@@ -1,8 +1,8 @@
 # VeChain Developer Resources
 
-Dev talks, libs and tricks.
+Welcome new developers!
 
-Enable new developers to learn VeChain as a public blockchain.
+Here you find the resources and helps to get you started.
 
 ### Find People
 
