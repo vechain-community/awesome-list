@@ -1,4 +1,4 @@
-# VeChain Developer Resources
+# VeChain Developer Awesome List
 
 Welcome new developers!
 
