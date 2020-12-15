@@ -18,7 +18,7 @@ Enable new developers to learn VeChain as a public blockchain.
 
 ### Access Points
 
-You can access public VeChain blockchain nodes here. But highly recommended to run your own VeChain node to connect to the rest of us.
+**You can access public VeChain blockchain nodes here. But highly recommended to run your own VeChain node to connect to the rest of us.**
 
 - Public nodes (No SLA guaranteed) [[mainnet]](https://sync-mainnet.vechain.org/) [[testnet]](https://sync-testnet.vechain.org/)
 - Public nodes by MiRei [[web]](https://github.com/mirei83/VeChain-PublicNodes)
@@ -54,7 +54,7 @@ You can access public VeChain blockchain nodes here. But highly recommended to r
 ### Other Tricks
 
 - How to recover VET sent to an ETH address [Binance Q&A Article](https://support.binance.us/hc/en-us/articles/360050437374-How-to-Recover-VET-Sent-to-an-ETH-Address)
-- How to build VeChain node on Windows [view](https://mirei83.medium.com/how-to-build-and-use-vechain-thor-in-microsoft-windows-d538c66390e6)
+- How to build VeChain node on Windows [[view]](https://mirei83.medium.com/how-to-build-and-use-vechain-thor-in-microsoft-windows-d538c66390e6)
 - How to move X-Node to Ledger [[view]](https://mirei83.medium.com/how-to-move-a-vechain-x-node-token-to-a-ledger-nano-hardware-wallet-7935ae218c47) 
 - X-Node manager by Fabian [[view]](https://manager.vechainstats.com/)
 - Token transfer tools [[VeChainTokens]](https://laalaguer.github.io/vechain-token-transfer/) [[MyTokens]](https://tokens.vecha.in/#/wallets)
