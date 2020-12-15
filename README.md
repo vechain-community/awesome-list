@@ -1,8 +1,8 @@
 # VeChain Developer Resources
 
-Dev talks, libs and tricks. Enable new-comers to learn VeChain public blockchain.
+Dev talks, libs and tricks. Enable new-comers to learn VeChain as a public blockchain.
 
-### People
+### Find People
 
 - VeChain Dev for tech advancements [[Twitter]](https://twitter.com/vechaindev)
 - VeChain Dev Community, serious discussions on new projects and muscle hirings [[Telegram]](https://t.me/VeChainDevCommunity)
@@ -56,3 +56,4 @@ You can access public VeChain blockchain nodes here. But highly recommended to r
 - How to move X-Node to Ledger [[view]](https://mirei83.medium.com/how-to-move-a-vechain-x-node-token-to-a-ledger-nano-hardware-wallet-7935ae218c47) 
 - X-Node manager by Fabian [[view]](https://manager.vechainstats.com/)
 - Token transfer tools [[VeChainTokens]](https://laalaguer.github.io/vechain-token-transfer/) [[MyTokens]](https://tokens.vecha.in/#/wallets)
+- Security Guidance for running a public VeChain node. [[view]](https://github.com/slowmist/vechain-core-nodes-security-checklist/blob/master/README-en.md)
