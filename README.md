@@ -31,7 +31,7 @@ Here you find the resources and helps to get you started.
 - Online IDE [[web]](https://vechainstore.com/ide)
 - Inspector, deploy byte code and interact with smart contracts online. [[web]](https://inspector.vecha.in/)
 - Keys generation (test only) [[web]](https://laalaguer.github.io/VeChain-Address/)
-- Connex, high level Typescript interface to connect VeChain and users. [[source code]](https://github.com/vechain/connex) [[test]](https://github.com/vechain/connex-impl-test)
+- Connex, high level Typescript interface to connect VeChain and users. [[source code]](https://github.com/vechain/connex)
 - Sync, official wallet and a *Connex* runtime on Windows, Linux and Mac. [[link]](https://github.com/vechain/thor-sync.electron)
 - Token Registry, submit your new token address here to appear in the official wallets. [[submit]](https://github.com/vechain/token-registry)
 - App Hub, submit and view Dapps here. [[view]](https://apps.vechain.org/) [[submit]](https://github.com/vechain/app-hub)
