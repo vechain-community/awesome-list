@@ -54,6 +54,7 @@ Here you find the resources and helps to get you started.
 ### Other Tricks
 
 - How to recover VET sent to an ETH address [Binance Q&A Article](https://support.binance.us/hc/en-us/articles/360050437374-How-to-Recover-VET-Sent-to-an-ETH-Address)
+- How to recover VTHO that is stuck on a smart contract [[view]](https://github.com/laalaguer/vechain-withdraw-vtho)
 - How to build VeChain node on Windows [[view]](https://mirei83.medium.com/how-to-build-and-use-vechain-thor-in-microsoft-windows-d538c66390e6)
 - How to move X-Node to Ledger [[view]](https://mirei83.medium.com/how-to-move-a-vechain-x-node-token-to-a-ledger-nano-hardware-wallet-7935ae218c47) 
 - X-Node manager by Fabian [[view]](https://manager.vechainstats.com/)
