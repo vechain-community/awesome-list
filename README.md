@@ -61,3 +61,4 @@ Here you find the resources and helps to get you started.
 - Token transfer tools [[VeChainTokens]](https://laalaguer.github.io/vechain-token-transfer/) [[MyTokens]](https://tokens.vecha.in/#/wallets)
 - Security Guidance for running a public VeChain node. [[view]](https://github.com/slowmist/vechain-core-nodes-security-checklist/blob/master/README-en.md)
 - Nginx Configuration for running a public VeChain node. [[view]](https://gist.github.com/libotony/851b09f9a1a3da935b419e6fe636f9aa)
+- How to sign your Tx offline and send it online with mobile wallet. [[view]](https://twitter.com/Martijncvv/status/1291493733230432262?s=20)
