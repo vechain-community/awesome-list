@@ -36,8 +36,8 @@ Here you find the resources and helps to get you started.
 - Token Registry, submit your new token address here to appear in the official wallets. [[submit]](https://github.com/vechain/token-registry)
 - App Hub, submit and view Dapps here. [[view]](https://apps.vechain.org/) [[submit]](https://github.com/vechain/app-hub)
 - B32, submit and view known smart contracts here. This helps official explorer to better decode logs. [[submit]](https://github.com/vechain/b32)
-- Picasso, lib to build pretty avatars for addresses. [[souce code]](https://github.com/vechain/picasso)
-- **Fee Delegation as a Service (DaaS)**, an infrastructure-level module that provides a framework for setting up a fee-delegation service based on the VIP-191 protocol. [[souce code]](https://github.com/mongelly/stormbreaker-feedelegation-service)
+- Picasso, lib to build pretty avatars for addresses. [[source code]](https://github.com/vechain/picasso)
+- **Fee Delegation as a Service (DaaS)**, an infrastructure-level module that provides a framework for setting up a fee-delegation service based on the VIP-191 protocol. [[source code]](https://github.com/mongelly/stormbreaker-feedelegation-service)
 
 ### Learning
 
