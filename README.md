@@ -41,6 +41,7 @@ Here you find the resources and helps to get you started.
 - B32, submit and view known smart contracts here. This helps official explorer to better decode logs. [[submit]](https://github.com/vechain/b32)
 - Picasso, lib to build pretty avatars for addresses. [[source code]](https://github.com/vechain/picasso)
 - **Fee Delegation as a Service (DaaS)**, an infrastructure-level module that provides a framework for setting up a fee-delegation service based on the VIP-191 protocol. [[source code]](https://github.com/mongelly/stormbreaker-feedelegation-service)
+- Tokens on Mainnet and Testnet, their contracts info and icons [[icons]](https://github.com/vechain/token-registry/tree/gh-pages/assets) [[mainnet]](https://vechain.github.io/token-registry/main.json) [[testnet]](https://vechain.github.io/token-registry/test.json)
 
 ### Learning
 
