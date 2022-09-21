@@ -26,8 +26,9 @@ Here you find the resources and helps to get you started.
 ### Libs & Tools
 
 - Offical node source code, deployment guide. [[link]](https://github.com/vechain/thor)
-- SDKs of wallets, keys, transactions, ABI and debug.  [[Python]](https://github.com/vechain/thor-devkit.py) [[JavaScript]](https://github.com/vechain/thor-devkit.js) [[C#]](https://github.com/vechain/thor-devkit.netcore) [[Java]](https://github.com/laalaguer/thor-devkit.java)
+- SDKs of wallets, keys, transactions, ABI and debug.  [[Python]](https://github.com/vechain/thor-devkit.py) [[JavaScript]](https://github.com/vechain/thor-devkit.js) [[C#]](https://github.com/vechain/thor-devkit.netcore) [[Java]](https://github.com/laalaguer/thor-devkit.java) [[Dart]](https://pub.dev/packages/thor_devkit_dart)
 - `thor-requests.py` High-level Python SDK to interact with VeChain. [[code]](https://pypi.org/project/thor-requests/)
+- `thor-requests.dart` High-level Dart SDK to interact with VeChain. [[code]](https://pub.dev/packages/thor_request_dart)
 - Faucet to get free coins (testnet) [[web]](https://faucet.vecha.in/)
 - Another Faucet to get free coins (vip191, testnet) [[web]](https://omg.outofgas.io)
 - Online IDE [[web]](https://vechainstore.com/ide)
@@ -55,6 +56,8 @@ Here you find the resources and helps to get you started.
 - How to setup a custom private network [[view]](https://mirei83.medium.com/vechain-customnetwork-the-bfc-story-f6ede804c94d)
 - How to setup a solo development network [[view]](https://mirei83.medium.com/vechain-solo-development-environment-7707f41ac4a7)
 - How to work with Python SDK of VeChain [[wallet]](https://mirei83.medium.com/howto-vechain-blockchain-part-1-8eba9b9e2874) [[transaction]](https://mirei83.medium.com/howto-vechain-blockchain-part-2-6ccd31f320c) [[call contract]](https://mirei83.medium.com/howto-vechain-blockchain-part-6-efabbd7b050f) [[calculate gas]](https://mirei83.medium.com/howto-vechain-blockchain-part-7-6b41b1080cd)
+- How to work with Dart SDK of SayNode for VeChain [[Medium]](https://medium.com/@SayNode_/flutter-dapps-made-easy-with-the-thor-devkit-dart-and-thor-request-dart-c956eaedac5d) [[Walkthrough]](https://www.youtube.com/watch?v=UCkcnV-WX3s)
+
 
 ### Other Tricks
 
